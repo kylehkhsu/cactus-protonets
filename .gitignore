@@ -1,0 +1,10 @@
+*.pyc
+*.swp
+*.egg-info/
+results/
+dist
+build
+*.zip
+data/
+log/
+.idea/
