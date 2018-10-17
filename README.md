@@ -1,5 +1,5 @@
-# CACTUs-Protonets
-Clustering to Automatically Generate Tasks for Unsupervised Prototypical Networks.
+# CACTUs-ProtoNets
+CACTUs-ProtoNets: Clustering to Automatically Generate Tasks for Unsupervised Prototypical Networks.
 
 This code was used to produce the CACTUs-Protonets results and baselines in the paper [Unsupervised Learning via Meta-Learning](https://arxiv.org/abs/1810.02334).
 
