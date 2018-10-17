@@ -5,6 +5,6 @@ results/
 dist
 build
 *.zip
-data/
+/data/
 log/
 .idea/
