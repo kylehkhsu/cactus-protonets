@@ -19,7 +19,7 @@ Instructions:
 
 
 ### Data
-The Omniglot splits with ACAI and BiGAN encodings used for the results in the paper are available [here](https://drive.google.com/file/d/1i6kEbySnR51jT3pW_60E3PGkIOKmxTfQ/view).
+The Omniglot splits with ACAI and BiGAN encodings used for the results in the paper are available [here](https://drive.google.com/file/d/1SbJQQ56FqfJVgy2DMynR60IH_bQHjW5m).
 Download and extract the archive's contents into this directory.
 
 Unfortunately, due to licensing issues, I am not at liberty to re-distribute the miniImageNet or CelebA datasets. The code for these datasets is still presented for posterity.
